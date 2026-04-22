@@ -6,7 +6,7 @@ Repositorio del equipo para el caso de chatbot de clinica veterinaria en ENAE.
 Este ticket define y documenta el flujo de despliegue en Vercel.
 
 - Plataforma: Vercel
-- URL de produccion: `https://enae-vet-es.vercel.app` (asumida; validar en panel)
+- URL de produccion: `https://enae-vet-es-enae2.vercel.app` (validada)
 - Flujo: GitHub push/PR -> Build Vercel -> URL Preview/Production
 - Evidencia de deploy: ver `docs/deploy-vercel.md`
 - Seguridad: variables de entorno solo en Vercel (no commitear secretos)

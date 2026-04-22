@@ -33,8 +33,11 @@ Objetivo: vincular el repositorio en Vercel, validar deploy y dejar trazabilidad
 - Rotar credenciales si se sospecha exposicion en terminales o logs.
 
 ## Evidencia de despliegue
-- URL de produccion esperada: `https://enae-vet-es.vercel.app`
-- Estado esperado: `Ready`
+- URL de produccion validada: `https://enae-vet-es-enae2.vercel.app`
+- URL de deployment: `https://enae-vet-es-enae2-6ec5yy19n-josher10s-projects.vercel.app`
+- Deployment ID: `dpl_HKWNZvkn3EgpbVvQzMKDGmcDV3SS`
+- Estado real: `READY`
+- Fecha de validacion (UTC): `2026-04-22T18:12:00Z`
 - Comando de referencia local:
 
 ```bash
